@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp.NetCore.DirectoryEntry
+namespace ConsoleApp.NetCore.Ldap
 {
     class Program
     {
